@@ -1,0 +1,11 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Compiler" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="System Health (minor)" />
+    <notification groupId="Test Runner" />
+  </component>
+</application>

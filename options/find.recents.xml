@@ -1,0 +1,39 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>sPool</find>
+      <find>MAX_POOL_SIZE</find>
+      <find>static</find>
+      <find>sPoolSize</find>
+      <find>MAX_POOL_SIZE</find>
+      <find>mMessages</find>
+      <find>next</find>
+      <find>next()</find>
+      <find>msg</find>
+      <find>sendm</find>
+      <find>postattime</find>
+      <find>mCharsetName</find>
+      <find>mCharsetNameOut</find>
+      <find>errMsg</find>
+      <find>pageLoad</find>
+      <find>escape</find>
+      <find>reload</find>
+      <find>setPswDisable</find>
+      <find>pwLi</find>
+      <find>PCSubWin</find>
+      <find>Authorization</find>
+      <find>httpAutErrorArray</find>
+      <find>history</find>
+      <find>output</find>
+      <find>isNaN</find>
+      <find>sCharSource</find>
+      <find>mIn</find>
+      <find>2050</find>
+      <find>system</find>
+      <find>while</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\1\weiciyuan-0.50</dir>
+    </dirStrings>
+  </component>
+</application>

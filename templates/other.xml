@@ -1,0 +1,8 @@
+<templateSet group="other">
+  <template name="no" value=" != " description="not equel" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="danli" value="#if (${PACKAGE_NAME} &amp;&amp; ${PACKAGE_NAME} != &quot;&quot;)package ${PACKAGE_NAME};#end&#10;#parse(&quot;File Header.java&quot;)&#10;public class ${NAME}{&#10;    private static ${NAME} ourInstance = new ${NAME}();&#10;&#10;    public static ${NAME} getInstance() {&#10;        return ourInstance;&#10;    }&#10;&#10;    private ${NAME}() {&#10;    }&#10;}&#10;" description="单例" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

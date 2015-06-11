@@ -1,0 +1,127 @@
+<templateSet group="plain">
+  <template name="st" value="String " description="String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pv" value="public void " description="public void" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if(){&#10;&#10;}" description="if(){}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="else" value="else{&#10;&#10;}" description="eles{}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="rn" value="\r\n" description="\r\n" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+      <option name="GROOVY" value="true" />
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="MAVEN" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vv" value=");" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="ii" value="int i = 0;" description="int i = 0;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="i" value="i++" description="i++" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
+  <template name="not" value="!=" description="!=" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+</templateSet>

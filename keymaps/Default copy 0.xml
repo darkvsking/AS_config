@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="ActivateAndroidToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt S" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+    <keyboard-shortcut first-keystroke="control alt Z" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="control F12" />
+    <keyboard-shortcut first-keystroke="control F12" second-keystroke="alt S" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt F7" />
+    <keyboard-shortcut first-keystroke="alt G" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="control alt SLASH" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt V" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="alt Y" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt A" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="ToggleContentUiTypeMode">
+    <keyboard-shortcut first-keystroke="alt T" />
+  </action>
+  <action id="ToggleDockMode">
+    <keyboard-shortcut first-keystroke="alt D" />
+  </action>
+  <action id="ToggleFloatingMode">
+    <keyboard-shortcut first-keystroke="alt W" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt F" />
+  </action>
+  <action id="TogglePinnedMode">
+    <keyboard-shortcut first-keystroke="alt E" />
+  </action>
+  <action id="ToggleSideMode">
+    <keyboard-shortcut first-keystroke="alt R" />
+  </action>
+</keymap>
+

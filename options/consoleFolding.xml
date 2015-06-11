@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="Alloc partial concurrent mark sweep GC freed" />
+        <option value="Clamp target GC heap from 17MB to 16MB" />
+        <option value="04-27 00:58:25.260    2693-2693/com.example.qianlong I/art﹕ Clamp target GC heap from 18MB to 16MB" />
+        <option value="04-27 00:58:25.300    2693-2693/com.example.qianlong I/art﹕ Clamp target GC heap from 18MB to 16MB" />
+        <option value="04-27 00:58:25.310    2693-2705/com.example.qianlong I/art﹕ WaitForGcToComplete blocked for 10ms for cause Background" />
+      </list>
+    </option>
+  </component>
+</application>
+

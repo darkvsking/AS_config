@@ -1,0 +1,74 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="UnitTest" values="JUnit" collectionTime="1432014884915" />
+      <project id="My2" values="AndroidTestRunConfigurationType" collectionTime="1431941947082" />
+      <project id="Mercy" values="Application" collectionTime="1433682555115" />
+      <project id="AndroidStudioAndRobolectric-master" values="AndroidRunConfigurationType,JUnit,GradleRunConfiguration" collectionTime="1432194957632" />
+      <project id="FixHtml" values="Application" collectionTime="1432167557519" />
+    </group>
+    <group name="language-level">
+      <project id="FixHtml" values="JDK_1_7" collectionTime="1432167557706" />
+      <project id="UnitTest" values="JDK_1_7" collectionTime="1432014885110" />
+      <project id="AndroidStudioAndRobolectric-master" values="JDK_1_7" collectionTime="1432194957761" />
+      <project id="adb" values="JDK_1_6" collectionTime="1433459399175" />
+      <project id="My2" values="JDK_1_7" collectionTime="1431941947222" />
+      <project id="Mercy" values="JDK_1_7" collectionTime="1433682555232" />
+    </group>
+    <group name="file-type">
+      <project id="FixHtml" values="IDEA_MODULE,Images,JAVA,Groovy,UNKNOWN,AIDL,Properties,PLAIN_TEXT,ProGuard File,XML,ARCHIVE" collectionTime="1432167557691" />
+      <project id="UnitTest" values="XML,Images,UNKNOWN,AIDL,PLAIN_TEXT,ARCHIVE,JAVA,Properties,IDEA_MODULE,ProGuard File,Groovy" collectionTime="1432014884983" />
+      <project id="AndroidStudioAndRobolectric-master" values="Properties,ARCHIVE,UNKNOWN,AIDL,IDEA_MODULE,XML,Images,ProGuard File,JAVA,Groovy,PLAIN_TEXT" collectionTime="1432194957689" />
+      <project id="adb" values="XML,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,C++" collectionTime="1433459399049" />
+      <project id="My2" values="UNKNOWN,Groovy,Images,PLAIN_TEXT,Properties,JAVA,XML,ARCHIVE,AIDL,ProGuard File,IDEA_MODULE" collectionTime="1431941947171" />
+      <project id="Mercy" values="XML,AIDL,Properties,UNKNOWN,Groovy,PLAIN_TEXT,JAVA,ProGuard File,CLASS,Images,ARCHIVE,IDEA_MODULE" collectionTime="1433682555213" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="UnitTest" values="AndroidRunConfigurationType" collectionTime="1432014884915" />
+      <project id="My2" values="AndroidRunConfigurationType,GradleRunConfiguration" collectionTime="1431941947082" />
+      <project id="Mercy" values="AndroidRunConfigurationType" collectionTime="1433682555115" />
+      <project id="AndroidStudioAndRobolectric-master" values="AndroidRunConfigurationType,Application" collectionTime="1432194957632" />
+      <project id="FixHtml" values="AndroidRunConfigurationType,JUnit" collectionTime="1432167557519" />
+    </group>
+    <group name="frameworks">
+      <project id="UnitTest" values="android,java-gradle,android-gradle" collectionTime="1432014884902" />
+      <project id="My2" values="android,android-gradle,java-gradle" collectionTime="1431941947080" />
+      <project id="Mercy" values="android,java-gradle,android-gradle" collectionTime="1433682555114" />
+      <project id="AndroidStudioAndRobolectric-master" values="android,android-gradle,java-gradle" collectionTime="1432194957620" />
+      <project id="FixHtml" values="android-gradle,java-gradle,android" collectionTime="1432167557516" />
+    </group>
+    <group name="module type">
+      <project id="FixHtml" values="JAVA_MODULE" collectionTime="1432167557517" />
+      <project id="UnitTest" values="JAVA_MODULE" collectionTime="1432014884902" />
+      <project id="AndroidStudioAndRobolectric-master" values="JAVA_MODULE" collectionTime="1432194957620" />
+      <project id="adb" values="JAVA_MODULE" collectionTime="1433459398862" />
+      <project id="My2" values="JAVA_MODULE" collectionTime="1431941947080" />
+      <project id="Mercy" values="JAVA_MODULE" collectionTime="1433682555114" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="1" />
+      <entry feature="execute.AndroidTestRunConfigurationType.Debug" count="6" />
+      <entry feature="execute.AndroidTestRunConfigurationType.Run" count="10" />
+      <entry feature="execute.Application.Debug" count="22" />
+      <entry feature="execute.Application.Run" count="165" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="14" />
+      <entry feature="execute.JUnit.Debug" count="9" />
+      <entry feature="execute.JUnit.Run" count="18" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="5" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Gradle" count="6" />
+      <entry feature="ide.settings.Java" count="4" />
+      <entry feature="ide.settings.Live_Templates" count="16" />
+      <entry feature="ide.settings.Notifications" count="1" />
+      <entry feature="ide.settings.Path_Variables" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="5" />
+      <entry feature="idea.caches.invalidated" count="4" />
+      <entry feature="ideaapp.started" count="30" />
+    </counts>
+  </component>
+</application>
